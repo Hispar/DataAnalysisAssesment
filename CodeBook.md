@@ -17,7 +17,7 @@ Values: WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING
 ```
 
 ### The next values are all averages of theirs descriptions
-
+```
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 t: indicates time.
 f: indicates frequency domain signals.
@@ -29,7 +29,7 @@ BodyGyro: Body gyroscope jerk signals.
 BodyGyroJerk: Body gyroscope jerk signals.
 Mag: Magnitude signals
 
-```
+
 "tBodyAcc-mean()-X" 
 "tBodyAcc-mean()-Y" 
 "tBodyAcc-mean()-Z" 
