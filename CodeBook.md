@@ -18,6 +18,8 @@ Values: WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING
 
 ### The next values are all averages of theirs descriptions
 ```
+Type: Al values are numeric
+
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 t: indicates time.
 f: indicates frequency domain signals.
